@@ -1,4 +1,3 @@
-<img width="1834" alt="Make your README" src="https://github.com/dakshraheja03/dakshraheja03/assets/94824966/3224f46c-0243-4f9d-a42f-9e3dab6e1e21"><h1 align="center">
 <h1 align="center">Hi 👋, I'm Yuvraj Bhalla</h1>
 <h3 align="center">Passionate Full Stack developer</h3>
 
